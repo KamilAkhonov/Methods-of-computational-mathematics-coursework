@@ -1,2 +1,3 @@
 # University
-Laboratory and course work
+Console application for dental clinic
+С# + WinForms + MSSQL
