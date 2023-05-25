@@ -1,3 +1,3 @@
 # University
 Laboratory and course work
-[Laboratory and course work](course_work_mvm.pdf)
+[Laboratory and course work](Course_work_mvm.pdf)
